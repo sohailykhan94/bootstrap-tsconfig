@@ -1,0 +1,14 @@
+{
+    "name": "bootstrap-prettier-tsconfig",
+    "version": "1.0.0",
+    "description": "Personal tsconfig",
+    "main": "index.json",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sohailykhan94/bootstrap-tsconfig.git"
+    },
+    "author": "Sohail Yar Khan",
+    "license": "ISC",
+    "homepage": "https://github.com/sohailykhan94/bootstrap-tsconfig#readme"
+  }
+  
