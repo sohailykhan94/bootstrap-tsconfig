@@ -37,7 +37,7 @@ yarn add https://github.com/sohailykhan94/bootstrap-tsconfig -D
 ### tsconfig.json
 ```
 {
-  "extends": "bootstrap-tsconfig",
+  "extends": "bootstrap-tsconfig/index.json",
   "compilerOptions": {
     "preserveConstEnums": true
   },
