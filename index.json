@@ -3,7 +3,6 @@
   "compilerOptions": {
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
-    "baseUrl": "./src",
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
@@ -23,7 +22,5 @@
     "strict": true,
     "suppressImplicitAnyIndexErrors": true,
     "target": "es2015"
-  },
-  "exclude": ["node_modules"],
-  "include": ["src"]
+  }
 }
