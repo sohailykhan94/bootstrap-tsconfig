@@ -1,5 +1,5 @@
 {
-    "name": "bootstrap-prettier-tsconfig",
+    "name": "bootstrap-tsconfig",
     "version": "1.0.0",
     "description": "Personal tsconfig",
     "main": "index.json",

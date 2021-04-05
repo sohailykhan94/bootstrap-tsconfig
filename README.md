@@ -30,14 +30,14 @@ Basic tsconfig which can be referenced and locally extended in your projects.
 # Usage
 ## Add to package
 ```
-yarn add https://github.com/sohailykhan94/bootstrap-prettier-tsconfig -D
+yarn add https://github.com/sohailykhan94/bootstrap-tsconfig -D
 ```
 
 ## Include in local config
 ### tsconfig.json
 ```
 {
-  "extends": "bootstrap-prettier-tsconfig",
+  "extends": "bootstrap-tsconfig",
   "compilerOptions": {
     "preserveConstEnums": true
   },
